@@ -1,0 +1,6 @@
+{
+    "cmake.configureSettings": {
+        "CS_PATH": "<COPPERSPICE PATH>",
+        "CMAKE_INSTALL_PREFIX": "./install"
+    }
+}
